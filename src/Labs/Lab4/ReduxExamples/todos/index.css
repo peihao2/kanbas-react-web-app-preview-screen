@@ -1,0 +1,70 @@
+.add-button {
+    background-color: green;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 5px; 
+  }
+  
+  .update-button {
+    background-color: yellow;
+    color: black;
+    border: none;
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 5px; 
+    margin-left: 5px;
+  }
+  
+  .edit-button {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 5px; 
+    margin-left: 5px;
+  }
+  
+  .delete-button {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+    font-size: 14px;
+    cursor: pointer;
+    border-radius: 5px; 
+    margin-left: 5px;
+  }
+  
+  ul {
+    list-style-type: none; 
+    padding: 0;
+  }
+  
+  li {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px; 
+    margin-bottom: 5px;
+    background-color: #f9f9f9; 
+  }
+  
+  input {
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-right: 5px;
+  }
+  
+  
+  .button-group {
+    display: flex;
+    margin-left: auto; 
+  }
